@@ -1,0 +1,324 @@
+﻿type,id,display_name,blocked,favorite,profile.avatar_url,profile.gender,profile.locations[0].type,profile.locations[0].country,profile.locations[0].city,profile.locations[0].state,profile.mood,profile.name.first,profile.name.company,profile.name.surname,profile.phones[0].number,profile.phones[0].type,profile.phones[1].number,profile.phones[1].type,profile.about,profile.phones[2].number,profile.phones[2].type,profile.website,profile.skype_handle,sources,creation_time
+SkypeOneWay,segesam,segesam srl galassi,False,False,https://avatar.skype.com/v1/avatars/segesam/public,,home,,pesaro,,,segesam srl galassi,,,,,,,,,,,segesam,InitConversation,2021-02-23 13:14:29Z
+Bot,concierge,Skype,False,False,https://az705183.vo.msecnd.net/dam/skype/media/concierge-assets/avatar/avatarcnsrg-144.png,,,,,,,Skype,Skype,,,,,,,,,,concierge,,2021-02-22 06:13:23Z
+Skype,live:.cid.a78b74ae773d1582,Nikhil Sharma,False,False,,,,,,,,Nikhil,,Sharma,,,,,,,,,live:.cid.a78b74ae773d1582,"AcceptInvite, AcceptConversation",2021-02-19 04:36:38Z
+Skype,live:mouad.ourgh,Mouad Ourgh,False,False,https://avatar.skype.com/v1/avatars/live:mouad.ourgh/public,,,,,,Ingénieur Système Linux,Mouad,,Ourgh,,,,,,,,,live:mouad.ourgh,"AcceptInvite, AcceptConversation",2021-02-17 10:02:55Z
+Skype,elisom,Elisom,False,False,https://avatar.skype.com/v1/avatars/elisom/public,,home,ky,,,Wnets,Elisom,,,,,,,,,,,elisom,InitConversation,2021-02-15 17:52:21Z
+Skype,live:always_174,ROI Matters,False,False,,,home,sg,Singapore,Singapore,,ROI,,Matters,,,,,,,,,live:always_174,"AcceptConversation, AcceptInvite",2021-02-15 14:28:35Z
+Skype,echo123,Echo / Sound Test Service .,False,False,https://avatar.skype.com/v1/avatars/echo123/public,,home,gb,,,,Echo / Sound Test Service,,.,,,,,"Hi, this is Skype automatic sound test service. Add me to your contact list and give me a call to test your sound setup. See https://www.skype.com/go/help for more assistance. Thank you.",,,https://www.skype.com/go/help,echo123,,2021-02-14 08:33:52Z
+Skype,live:.cid.ddf490e63c34fdd2,Tech Support,False,False,https://avatar.skype.com/v1/avatars/live:.cid.ddf490e63c34fdd2/public,,,,,,,Tech,,Support,,,,,,,,,live:.cid.ddf490e63c34fdd2,"AcceptConversation, AcceptInvite",2023-10-05 16:54:28Z
+Skype,khursheed.ahmad3,Mir,False,True,https://avatar.skype.com/v1/avatars/khursheed.ahmad3/public,male,home,us,Seattle,,"<ss type=""wink"">(wink)</ss>",Mir,,,,,,,,,,,khursheed.ahmad3,InitConversation,2023-09-28 20:24:19Z
+SkypeOneWay,khursheedahmad.22,khursheed,False,False,,,,,,,,khursheed,,,,,,,,,,,khursheedahmad.22,InitConversation,2023-09-28 17:17:58Z
+SkypeOneWay,live:.cid.ed9e37b098b5d0ca,remotasks mota,False,False,,,,,,,,remotasks,,mota,,,,,,,,,live:.cid.ed9e37b098b5d0ca,InitConversation,2023-09-24 10:09:18Z
+SkypeOneWay,live:remotasks,Remotasks resmostasks,False,False,,,,,,,,Remotasks,,resmostasks,,,,,,,,,live:remotasks,InitConversation,2023-09-24 10:09:14Z
+SkypeOneWay,live:.cid.72f1c81e3729ddaf,remotasks farming1,False,False,,,,,,,,remotasks,,farming1,,,,,,,,,live:.cid.72f1c81e3729ddaf,InitConversation,2023-09-24 10:09:10Z
+Skype,live:.cid.ffe8d0454926464f,Smart Dev,False,False,https://avatar.skype.com/v1/avatars/live:.cid.ffe8d0454926464f/public,male,home,us,,,Promise is law,Smart,,Dev,,,,,"""Promise is law""
+This is my slogan",,,,live:.cid.ffe8d0454926464f,AcceptConversation,2023-09-20 16:39:57Z
+SkypeOneWay,live:.cid.2144c8f1cdafbec0,Ryan,False,False,,,,,,,,Ryan,,,,,,,,,,,live:.cid.2144c8f1cdafbec0,InitConversation,2023-09-15 17:34:00Z
+SkypeOneWay,live:b.mouw7,Ben Mouw,False,False,,,,,,,,Ben,,Mouw,,,,,,,,,live:b.mouw7,InitConversation,2023-09-14 20:14:26Z
+Skype,live:alexdp2010_1,alessandro,False,True,https://avatar.skype.com/v1/avatars/live:alexdp2010_1/public,male,home,it,,,,alessandro,,,,,,,,,,,live:alexdp2010_1,InitConversation,2023-09-14 18:10:02Z
+Skype,live:.cid.a909f6a66a75e144,Alex Shelton,False,False,https://avatar.skype.com/v1/avatars/live:.cid.a909f6a66a75e144/public,,,,,,,Alex,,Shelton,,,,,,,,,live:.cid.a909f6a66a75e144,InitConversation,2023-09-14 04:03:51Z
+Skype,live:.cid.5e514af575b8fef6,Rise Iptv,False,False,https://avatar.skype.com/v1/avatars/live:.cid.5e514af575b8fef6/public,,,,,,,Rise,,Iptv,,,,,,,,,live:.cid.5e514af575b8fef6,InitConversation,2023-09-08 08:43:25Z
+Skype,live:.cid.e560a9943654e82b,stefanos patsourakos Betbazar,False,False,https://avatar.skype.com/v1/avatars/live:.cid.e560a9943654e82b/public,,home,gr,thessaloniki,,,stefanos,,patsourakos Betbazar,,,,,zeusplay sales director,,,,live:.cid.e560a9943654e82b,"AcceptConversation, AcceptInvite",2023-09-05 07:38:37Z
+Skype,rossal1980,Rossal Man,True,False,https://avatar.skype.com/v1/avatars/rossal1980/public,male,home,gb,Sheffield,,,Rossal,,Man,,,,,,,,,rossal1980,InitConversation,2023-09-04 13:49:36Z
+Skype,benoitpetrus,benoitpetrus,False,True,https://avatar.skype.com/v1/avatars/benoitpetrus/public,male,home,be,,,follow us on twitter : @WTechLabs,benoitpetrus,,,,,,,follow us on twitter : https://twitter.com/WTechLabs,,,,benoitpetrus,InitConversation,2023-09-04 07:47:36Z
+Skype,live:.cid.a261640dc4b46029,True Power,False,False,,male,home,by,Pinsk,,,True,,Power,,,,,,,,,live:.cid.a261640dc4b46029,"AcceptConversation, AcceptInvite",2023-09-04 06:59:54Z
+Skype,live:.cid.9d6af946a0b33508,Rojelyn Sumalinog,False,False,https://avatar.skype.com/v1/avatars/live:.cid.9d6af946a0b33508/public,female,home,ph,Bayugan,Agusan del sur,,Rojelyn,,Sumalinog,,,,,,,,,live:.cid.9d6af946a0b33508,"AcceptConversation, AcceptInvite",2023-09-03 11:30:38Z
+Skype,securedglobe,Secured Globe Inc.,False,False,https://avatar.skype.com/v1/avatars/securedglobe/public,male,home,us,New York,New York,Welcome to a Secured Globe reality!,Secured,,Globe Inc.,12135584428,home,6464800506,mobile,CEO and founder of Secured Globe,,,www.securedglobe.com,securedglobe,"AcceptConversation, AcceptInvite",2023-08-31 20:44:40Z
+Skype,live:abdulisiaq,abdul isiaq,False,False,,,,,,,,abdul,,isiaq,,,,,,,,,live:abdulisiaq,AcceptConversation,2023-08-30 14:16:25Z
+Skype,live:.cid.44ff5ae5c26ad493,Jonas Mulevicius,False,False,https://avatar.skype.com/v1/avatars/live:.cid.44ff5ae5c26ad493/public,,,,,,,Jonas,,Mulevicius,,,,,,,,,live:.cid.44ff5ae5c26ad493,InitConversation,2023-08-29 06:49:04Z
+Skype,live:.cid.d1cbba51768fd41a,Jacl,False,False,,,,,,,,Jacl,,,,,,,,,,,live:.cid.d1cbba51768fd41a,"AcceptConversation, AcceptInvite",2023-08-24 13:42:42Z
+Skype,live:.cid.4240274d32357e99,Tanu Mahobia - BPK Tech,False,False,,,,,,,,T,,M,,,,,,,,,live:.cid.4240274d32357e99,"AcceptConversation, AcceptInvite",2023-08-22 12:51:55Z
+Skype,live:mjackson891,Matthew Jackson,False,False,,,,,,,,Matthew,,Jackson,,,,,,,,,live:mjackson891,"AcceptConversation, AcceptInvite",2023-08-18 19:33:03Z
+Skype,live:dina.valentin,Valentin Dina,False,False,https://avatar.skype.com/v1/avatars/live:dina.valentin/public,,,,,,,Valentin,,Dina,,,,,,,,,live:dina.valentin,"AcceptConversation, AcceptInvite",2023-08-18 19:27:32Z
+Bot,e7a9407c-2467-4a04-9546-70081f4ea80d,File Transfer,False,False,https://docs.botframework.com/static/devportal/client/images/bot-framework-default.png,,,,,,,File Transfer,,,,,,,,,,,e7a9407c-2467-4a04-9546-70081f4ea80d,,2023-08-15 09:55:20Z
+Skype,live:.cid.b62ca8087ef92728,Vitaliy Varaksa,False,False,https://avatar.skype.com/v1/avatars/live:.cid.b62ca8087ef92728/public,,,,,,,Vitaliy,,Varaksa,,,,,,,,,live:.cid.b62ca8087ef92728,"AcceptConversation, AcceptInvite",2023-08-15 03:31:30Z
+SkypeOneWay,wpack_off,wpack_off,False,True,https://avatar.skype.com/v1/avatars/wpack_off/public,male,home,md,,,,wpack_off,,,,,,,,,,,wpack_off,AddContact (T2),2023-08-13 01:49:55Z
+Skype,live:.cid.69d46f763d6c68b9,Olalekan Lawal,False,False,,,,,,,,Olalekan,,Lawal,,,,,,,,,live:.cid.69d46f763d6c68b9,"AcceptConversation, AcceptInvite",2023-08-09 12:02:21Z
+Skype,amiteshs2011,Amitesh Sinha,False,False,https://avatar.skype.com/v1/avatars/amiteshs2011/public,male,home,us,Sterling,VA,Online but not around. Leave me a message!,Amitesh,,Sinha,,,,,,,,www.iconnectgroup.com,amiteshs2011,InitConversation,2023-08-03 20:12:12Z
+Skype,live:.cid.2c6307e1b6a215be,Michael Sam,False,False,https://avatar.skype.com/v1/avatars/live:.cid.2c6307e1b6a215be/public,,,,,,,Michael,,Sam,,,,,,,,,live:.cid.2c6307e1b6a215be,InitConversation,2023-07-28 09:11:31Z
+Skype,donopritchard,Donovan PRITCHARD,False,False,https://avatar.skype.com/v1/avatars/donopritchard/public,male,home,fr,Paris,,A vision of the future,Donovan,,PRITCHARD,33750502131,mobile,,,,,,,donopritchard,InitConversation,2023-07-25 14:50:19Z
+Skype,live:.cid.ee46c1a899b0f081,Daw James,False,False,https://avatar.skype.com/v1/avatars/live:.cid.ee46c1a899b0f081/public,male,home,us,Pennsylvania,Pennsylvania,"<ss type=""wfh"">(wfh)</ss> Working 24/7",Daw,,James,,,,,I'm Mark Luice,,,,live:.cid.ee46c1a899b0f081,InitConversation,2023-07-24 00:44:22Z
+Skype,justazkopustys,Justas Jakelaitis,False,False,https://avatar.skype.com/v1/avatars/justazkopustys/public,,home,lt,,,,Justas,,Jakelaitis,37060022063,mobile,,,,,,,justazkopustys,InitConversation,2023-07-21 08:15:53Z
+SkypeOneWay,live:urijah_10,Urijah Kaplan,False,False,https://avatar.skype.com/v1/avatars/live:urijah_10/public,,,,,,,Urijah,,Kaplan,,,,,,,,,live:urijah_10,InitConversation,2023-07-13 07:13:02Z
+SkypeOneWay,urijah_assura,Urijah Kaplan,False,False,,,home,us,,,,Urijah Kaplan,,,,,,,,,,,urijah_assura,InitConversation,2023-07-13 05:57:14Z
+Skype,live:emekaisiguzo,EMEKA ISIGUZO,False,True,,,,,,,,EMEKA,,ISIGUZO,,,,,,,,,live:emekaisiguzo,InitConversation,2023-07-11 10:52:29Z
+Skype,live:.cid.80ffbf14e88b12bc,Barracuda Gaming,False,False,,,,,,,,Barracuda,,Gaming,,,,,,,,,live:.cid.80ffbf14e88b12bc,InitConversation,2023-07-06 16:14:40Z
+Skype,live:.cid.32a902302ca22e3c,Dupond,False,False,,,,,,,"<ss type=""wait"">(wait)</ss> En réunion",Dupond,,,,,,,,,,,live:.cid.32a902302ca22e3c,InitConversation,2023-07-06 03:26:05Z
+Skype,live:.cid.e9147da9dbdcbe21,Sunil Kumar,False,False,https://avatar.skype.com/v1/avatars/live:.cid.e9147da9dbdcbe21/public,,,,,,,Sunil,,Kumar,,,,,,,,,live:.cid.e9147da9dbdcbe21,InitConversation,2023-07-03 09:39:59Z
+Skype,live:.cid.c296b2b6db18e191,CH KOMALI,False,False,https://avatar.skype.com/v1/avatars/live:.cid.c296b2b6db18e191/public,,,,,,,CH,,KOMALI,,,,,,,,,live:.cid.c296b2b6db18e191,"AcceptConversation, AcceptInvite",2023-09-21 13:35:21Z
+Skype,sanjeev.raghuwanshi7,Sanjeev kumar,False,False,https://avatar.skype.com/v1/avatars/sanjeev.raghuwanshi7/public,male,home,in,Vidisha,MP,Project Manager (Joomla and Wordpress  Expert),Sanjeev,,kumar,919685156776,mobile,,,"I am  Joomla, Wordpres, PHP developer",,,,sanjeev.raghuwanshi7,"AcceptConversation, AcceptInvite",2023-06-17 11:26:57Z
+Skype,shail.iis,Ignis IT,False,False,,,home,in,Indore,M.P,,Ignis,,IT,,,,,,,,,shail.iis,"AcceptConversation, AcceptInvite",2023-06-16 12:56:58Z
+SkypeOneWay,live:.cid.4abd302cf0f4bf30,Sandeep Porwal,False,False,https://avatar.skype.com/v1/avatars/live:.cid.4abd302cf0f4bf30/public,,,,,,,Sandeep,,Porwal,,,,,,,,,live:.cid.4abd302cf0f4bf30,InitConversation,2023-06-16 12:51:41Z
+Skype,live:.cid.93803dc5372ffc61,Sai Kumari,False,False,,,,,,,,Sai,,Kumari,,,,,,,,,live:.cid.93803dc5372ffc61,"AcceptConversation, AcceptInvite",2023-06-13 11:59:05Z
+Skype,live:sowmyaelmete,Sowmya Elmete,False,False,,female,home,in,HYDERABAD,TELANGANA,,Sowmya,,Elmete,,,,,,,,,live:sowmyaelmete,InitConversation,2023-06-13 10:44:48Z
+Skype,live:.cid.5255d481f6943d30,Kristina Sluga,False,False,https://avatar.skype.com/v1/avatars/live:.cid.5255d481f6943d30/public,,,,,,,Kristina,,Sluga,,,,,,,,,live:.cid.5255d481f6943d30,"AcceptConversation, AcceptInvite",2023-06-13 06:51:06Z
+SkypeOneWay,live:mmanning00,Michele M,False,False,,,,,,,,Michele,,M,,,,,,,,,live:mmanning00,InitConversation,2023-06-08 13:14:26Z
+SkypeOneWay,mmanning00,Mike Manning,False,False,,,home,us,,,,Mike,,Manning,,,,,,,,,mmanning00,InitConversation,2023-06-06 06:28:50Z
+Skype,live:.cid.d1d279b7c2939273,Takeshi Kaneshiro,False,False,https://avatar.skype.com/v1/avatars/live:.cid.d1d279b7c2939273/public,male,,,,,"<ss type=""party"">(party)</ss> Celebrating",Takeshi,,Kaneshiro,,,,,,,,,live:.cid.d1d279b7c2939273,InitConversation,2023-06-01 08:39:04Z
+Skype,live:.cid.3398d455d066eb88,Avinash Boddeda,False,False,,,,,,,,Avinash,,Boddeda,,,,,,,,,live:.cid.3398d455d066eb88,"AcceptConversation, AcceptInvite",2023-06-01 07:18:40Z
+Skype,live:nathanold82,Nathan Old | Betsoft,False,False,https://avatar.skype.com/v1/avatars/live:nathanold82/public,male,home,gb,,,,Nathan,,Old | Betsoft,447814439317,mobile,,,,,,,live:nathanold82,InitConversation,2023-05-25 08:30:26Z
+Skype,live:.cid.51ba7f959a218eae,ananth vijay ch,False,False,,,,,,,"<ss type=""dream"">(dream)</ss>",ananth,,vijay ch,,,,,,,,,live:.cid.51ba7f959a218eae,InitConversation,2023-05-24 13:16:33Z
+Skype,live:.cid.df301c27a153d258,SAI SUDHEER,False,True,,,,,,,,SAI,,SUDHEER,,,,,,,,,live:.cid.df301c27a153d258,InitConversation,2023-05-22 13:50:00Z
+Skype,abhiram1993111,Abhiram kolachalam,False,False,https://avatar.skype.com/v1/avatars/abhiram1993111/public,male,home,in,kurnool,Hyderabad,"<ss type=""car"">(car)</ss> Driving",Abhiram,,kolachalam,918185848788,home,919966366224,mobile,,,,facebook,abhiram1993111,InitConversation,2023-05-22 13:46:23Z
+Skype,live:9bdc853fdcb04aad,Satya Mekala WTL,False,True,,,,,,,,Satya,,Mekala WTL,,,,,,,,,live:9bdc853fdcb04aad,"AcceptConversation, AcceptInvite",2023-05-18 10:29:01Z
+Skype,ben2610,Benoit Bolsee,False,True,https://avatar.skype.com/v1/avatars/ben2610/public,male,home,BE,Brussels,,"<ss type=""26d4_noentry"">(26d4_noentry)</ss> Not available",Benoit,,Bolsee,,,,,,,,,ben2610,InitConversation,2023-05-08 15:34:30Z
+SkypeOneWay,alexander.slotegrator,Alexander Slot,False,False,,,home,de,,,,Alexander,,Slot,,,,,,,,,alexander.slotegrator,InitConversation,2023-04-28 15:29:02Z
+SkypeOneWay,live:.cid.67c1b91b695f993a,Stefan Tilev,False,False,,male,home,bg,Sofia,,,Stefan,,Tilev,,,,,,,,,live:.cid.67c1b91b695f993a,InitConversation,2023-04-27 12:57:43Z
+SkypeOneWay,live:.cid.41dc11b9a4f840b1,Delian Vladimirov,False,False,,,,,,,,Delian,,Vladimirov,,,,,,,,,live:.cid.41dc11b9a4f840b1,InitConversation,2023-04-27 12:56:05Z
+Skype,shashankg10,S G,False,False,,male,home,in,New Delhi,,,S,,G,919560059528,mobile,,,,,,,shashankg10,"AcceptConversation, AcceptInvite",2023-04-24 14:53:41Z
+Skype,live:.cid.844d8d745af3c793,Maria Ganeva emerchantpay,False,False,https://avatar.skype.com/v1/avatars/live:.cid.844d8d745af3c793/public,,,,,,,Maria,,Ganeva emerchantpay,,,,,,,,,live:.cid.844d8d745af3c793,InitConversation,2023-04-19 14:34:42Z
+Skype,nicamarcos1,Claudio Iglesias,False,False,https://avatar.skype.com/v1/avatars/nicamarcos1/public,male,home,ar,Cordoba,,ToyoLex 3 and ToyoLex 4 Genuine Versions,Claudio,,Iglesias,,,,,,,,,nicamarcos1,InitConversation,2023-04-17 20:31:09Z
+Skype,tomgracey,Tom Gracey,False,False,https://avatar.skype.com/v1/avatars/tomgracey/public,male,home,gb,,,,Tom Gracey,,,,,,,,,,,tomgracey,InitConversation,2023-04-17 10:53:37Z
+Skype,live:.cid.2de80beaffe80a0b,Narmadha D,False,False,https://avatar.skype.com/v1/avatars/live:.cid.2de80beaffe80a0b/public,,,,,,"<ss type=""laugh"">(laugh)</ss>  Your words may represent your thoughts,but your efforts represent you.",Narmadha,,D,,,,,,,,,live:.cid.2de80beaffe80a0b,"AcceptConversation, AcceptInvite",2023-04-14 12:59:47Z
+Skype,live:9de330d813fe6d7e,Olya Mychka,False,False,https://avatar.skype.com/v1/avatars/live:9de330d813fe6d7e/public,female,home,ua,,,,Olya,,Mychka,,,,,,,,,live:9de330d813fe6d7e,InitConversation,2023-04-14 00:19:18Z
+Skype,live:.cid.f210d9962e9171bd,IT Wizard,False,False,https://avatar.skype.com/v1/avatars/live:.cid.f210d9962e9171bd/public,,,,,,,IT,,Wizard,,,,,,,,,live:.cid.f210d9962e9171bd,InitConversation,2023-04-13 22:04:50Z
+SkypeOneWay,david.w.mahon,David MAHON,False,False,https://avatar.skype.com/v1/avatars/david.w.mahon/public,male,home,us,Ponte Vedra Beach,Florida,,David,,MAHON,,,,,,,,,david.w.mahon,InitConversation,2023-04-13 15:38:35Z
+Skype,live:.cid.e9d956a21739e99f,youngjin ha,False,False,,,,,,,,youngjin,,ha,,,,,,,,,live:.cid.e9d956a21739e99f,"AcceptConversation, AcceptInvite",2023-04-11 05:30:23Z
+SkypeOneWay,live:.cid.1e2a1256da3af853,KUSHAL MOITRA-React Native,False,False,,,,,,,,KUSHAL,,MOITRA-React Native,,,,,,,,,live:.cid.1e2a1256da3af853,InitConversation,2023-04-11 02:58:38Z
+SkypeOneWay,live:subhani.ali_1,Ali Subhani |IOS|React-Native|,False,False,https://avatar.skype.com/v1/avatars/live:subhani.ali_1/public,male,home,pk,Lahore,Punjab,,Ali,,Subhani |IOS|React-Native|,,,,,,,,,live:subhani.ali_1,InitConversation,2023-04-11 02:58:27Z
+Skype,live:.cid.6973fd5de2e7440e,Slotastic Gaming,False,False,,,,,,,,Slotastic,,Gaming,,,,,,,,,live:.cid.6973fd5de2e7440e,"AcceptConversation, AcceptInvite",2023-04-07 19:14:45Z
+Skype,live:.cid.9e13109eab855f3c,WebDeveloper,False,False,https://avatar.skype.com/v1/avatars/live:.cid.9e13109eab855f3c/public,,,,,,,WebDeveloper,,,,,,,,,,,live:.cid.9e13109eab855f3c,"AcceptConversation, AcceptInvite",2023-04-06 09:58:08Z
+Skype,live:.cid.f5e420531da5cc8b,Faraz Malik,False,False,,,,,,,,Faraz,,Malik,,,,,,,,,live:.cid.f5e420531da5cc8b,"AcceptConversation, AcceptInvite",2023-04-05 09:41:56Z
+Skype,marcioaneris,Marcio Augusto Neris,False,True,https://avatar.skype.com/v1/avatars/marcioaneris/public,male,home,br,Barretos,SP,Olar,Marcio,,Augusto Neris,5517981396861,mobile,,,,,,,marcioaneris,"AcceptConversation, AcceptInvite",2023-04-04 14:42:59Z
+Skype,harishgadde,Harish G,False,False,https://avatar.skype.com/v1/avatars/harishgadde/public,male,home,in,Hyderabad,Andhra Pradesh,"Who are you to judge the life I live?
+ I know I&apos;m not perfect-and 
+I don&apos;t live to be-but before you start pointing fingers...
+make sure you hands are clean!",Harish,,G,919963053060,mobile,,,,,,,harishgadde,"AcceptConversation, AcceptInvite",2023-04-04 06:56:53Z
+Skype,live:7tuchka001,_aggresor_,False,False,https://avatar.skype.com/v1/avatars/live:7tuchka001/public,,,,,,,_aggresor_,,,,,,,,,,,live:7tuchka001,InitConversation,2023-04-04 05:28:00Z
+Skype,penuga82k,Badri Sam,False,False,https://avatar.skype.com/v1/avatars/penuga82k/public,male,home,in,Chennai,,My silence doesnt mean i quit. It simply means i dont want to argue.,Badri,,Sam,,,,,"FX Solutions and a IT consultant. I also administrate asset management tech backbone. Looking for business networks with FX traders, Broker/Dealer at institutional level.",,,,penuga82k,"AcceptConversation, AcceptInvite",2023-04-01 06:04:01Z
+Skype,live:flegy333,Flegy,False,True,https://avatar.skype.com/v1/avatars/live:flegy333/public,male,home,hr,Sisak,,Coming together is a BEGINNING.  Keeping together is PROGRESS.  Working together is SUCCESS.”,Flegy,,,385981373725,mobile,,,Greetings to everyone that reads this. My name is Damir born in Croatia in the small town named Sisak was known by victory over Turkish Empire in the Sisak's mansion.,,,,live:flegy333,InitConversation,2023-03-31 01:59:13Z
+Skype,live:dmanohar1234,Manohar,False,True,https://avatar.skype.com/v1/avatars/live:dmanohar1234/public,male,home,in,Hyderabad,Telangana,"<ss type=""2620_skullandcrossbones"">(2620_skullandcrossbones)</ss>",Manohar,,,,,,,7382510732,,,,live:dmanohar1234,"AcceptConversation, AcceptInvite",2023-03-24 04:47:30Z
+SkypeOneWay,live:.cid.71d827f8e7116aa,Thuy Nguyen,False,False,https://avatar.skype.com/v1/avatars/live:.cid.71d827f8e7116aa/public,female,home,vn,Da Nang,Da Nang,,Thuy,,Nguyen,,,,,,,,,live:.cid.71d827f8e7116aa,InitConversation,2023-03-20 12:58:33Z
+Skype,live:john.92a,john p,False,False,,,,,,,,john,,p,,,,,,,,,live:john.92a,InitConversation,2023-03-20 12:26:01Z
+Skype,live:.cid.423b25a8ed99af18,Nick Patrick,False,False,https://avatar.skype.com/v1/avatars/live:.cid.423b25a8ed99af18/public,,,,,,"Ceo, Rifftech.",Nick,,Patrick,,,,,,,,,live:.cid.423b25a8ed99af18,InitConversation,2023-03-17 16:55:36Z
+SkypeOneWay,ghost.crypter,Official GhostCrypter Support,False,False,https://avatar.skype.com/v1/avatars/ghost.crypter/public,male,home,us,,,,Official GhostCrypter Support,,,,,,,"Update coming soon, hold on!
+Please be patient, we will gladly add back some time if you ask.
+
+Be back 24 hours possibly.
+
+REMEMBER: USING GHOST CRYPTER FOR FRAUD / FINANCIAL STEALING  = BAN!",,,,ghost.crypter,InitConversation,2023-03-17 07:03:25Z
+SkypeOneWay,live:.cid.a52ae4958942acb,Albert,False,False,,,,,,,,Albert,,,,,,,,,,,live:.cid.a52ae4958942acb,InitConversation,2023-03-14 20:40:02Z
+SkypeOneWay,live:.cid.98eb9d9315aaa1e1,Nemanja Radovic,False,False,,,,,,,,Nemanja,,Radovic,,,,,,,,,live:.cid.98eb9d9315aaa1e1,InitConversation,2023-03-14 17:52:37Z
+SkypeOneWay,live:ternerlance_2,lance terner,False,False,,,,,,,,lance,,terner,,,,,,,,,live:ternerlance_2,InitConversation,2023-03-13 11:40:40Z
+SkypeOneWay,live:ternerlance_1,LANCE TERNER,False,False,https://avatar.skype.com/v1/avatars/live:ternerlance_1/public,,,,,,,LANCE,,TERNER,,,,,,,,,live:ternerlance_1,InitConversation,2023-03-13 11:05:10Z
+SkypeOneWay,live:lance_2228,Lance Terner,False,False,,,,,,,,Lance,,Terner,,,,,,,,,live:lance_2228,InitConversation,2023-03-13 11:03:37Z
+Skype,live:.cid.462706612bac17ab,Project Manager,False,False,,,,,,,,Project,,Manager,,,,,,,,,live:.cid.462706612bac17ab,InitConversation,2023-03-12 17:36:21Z
+Skype,live:.cid.1af6625e02bede69,Lucky Cloud,False,True,,,,,,,,Viktor,,Rieger,,,,,,,,,live:.cid.1af6625e02bede69,InitConversation,2023-03-12 07:39:17Z
+SkypeOneWay,live:.cid.8c831d7f5789a548,Steve Y,False,False,,,,,,,,Steve,,Y,,,,,,,,,live:.cid.8c831d7f5789a548,InitConversation,2023-03-11 12:56:58Z
+SkypeOneWay,live:steven.young84,Steve Y,False,False,https://avatar.skype.com/v1/avatars/live:steven.young84/public,,home,us,,Oklahoma,,Steve,,Y,,,,,,,,,live:steven.young84,InitConversation,2023-03-11 12:56:50Z
+SkypeOneWay,live:.cid.a17ad2290d7fc592,steve y,False,False,,,,,,,,steve,,y,,,,,,,,,live:.cid.a17ad2290d7fc592,InitConversation,2023-03-11 12:56:40Z
+Skype,live:.cid.bf238ccb8952e4da,Steven Developer,False,False,,,,,,,,Steven,,Developer,,,,,,,,,live:.cid.bf238ccb8952e4da,"AddContact (T2), InitConversation",2023-03-07 18:14:57Z
+Skype,tofifi1150,Tony,False,False,https://avatar.skype.com/v1/avatars/tofifi1150/public,,home,ru,Москва,,Hi all!,Tony,,,,,,,,,,,tofifi1150,AcceptConversation,2023-03-06 16:25:21Z
+Skype,weabooter.support,billie,False,False,https://avatar.skype.com/v1/avatars/weabooter.support/public,male,home,us,,,gucci gang,billie,,,,,,,,,,,weabooter.support,"AcceptConversation, AcceptInvite",2023-03-06 16:01:24Z
+Skype,mlhattane,mlhattane,False,False,https://avatar.skype.com/v1/avatars/mlhattane/public,,,,,,,,,,,,,,,,,,mlhattane,InitConversation,2023-03-06 10:10:10Z
+Skype,live:.cid.d29d8e6f045b1a2c,Lucky man,False,False,,,,,,,,Lucky,,man,,,,,,,,,live:.cid.d29d8e6f045b1a2c,"AcceptConversation, AcceptInvite",2023-03-05 14:09:31Z
+SkypeOneWay,dmxrated,Eric Ledger,False,False,https://avatar.skype.com/v1/avatars/dmxrated/public,,home,US,Medford,NY,,Eric,,Ledger,,,,,,,,,dmxrated,InitConversation,2023-03-05 12:32:03Z
+SkypeOneWay,jmarc1281,Joseph M,False,False,,,home,us,,,,Joseph M,,,,,,,,,,,jmarc1281,InitConversation,2023-03-03 11:19:16Z
+Skype,live:.cid.63e59af054f5982c,KAMBEI SAPOTE,False,False,https://avatar.skype.com/v1/avatars/live:.cid.63e59af054f5982c/public,,home,,LONDON,,,KAMBEI,,SAPOTE,,,,,,,,,live:.cid.63e59af054f5982c,"AcceptConversation, AcceptInvite",2023-03-02 09:50:55Z
+Skype,live:.cid.16066a5b3842827c,peace,False,False,https://avatar.skype.com/v1/avatars/live:.cid.16066a5b3842827c/public,,,,,,,peace,,,,,,,,,,,live:.cid.16066a5b3842827c,"AcceptConversation, AcceptInvite",2023-02-28 19:59:20Z
+Skype,live:.cid.f96ab48fd382406,TrueCoder,False,False,https://avatar.skype.com/v1/avatars/live:.cid.f96ab48fd382406/public,,,,,,,TrueCoder,,,,,,,,,,,live:.cid.f96ab48fd382406,"AcceptConversation, AcceptInvite",2023-02-27 18:23:13Z
+Skype,live:shivveer,Shiv Veer,False,False,,,,,,,,Shiv,,Veer,,,,,,,,,live:shivveer,"AcceptConversation, AcceptInvite",2023-02-26 18:18:59Z
+SkypeOneWay,live:.cid.edd786f61dd2a2db,shivveer shakya,False,False,,,,,,,,shivveer,,shakya,,,,,,,,,live:.cid.edd786f61dd2a2db,InitConversation,2023-02-26 18:11:50Z
+SkypeOneWay,live:shivveersingh305,Shivveer Singh,False,False,https://avatar.skype.com/v1/avatars/live:shivveersingh305/public,,,,,,,Shivveer,,Singh,,,,,,,,,live:shivveersingh305,InitConversation,2023-02-26 18:11:44Z
+SkypeOneWay,live:.cid.e1749c984865ac8e,SHIVVEER SINGH,False,False,https://avatar.skype.com/v1/avatars/live:.cid.e1749c984865ac8e/public,,,,,,,SHIVVEER,,SINGH,,,,,,,,,live:.cid.e1749c984865ac8e,InitConversation,2023-02-26 18:11:41Z
+SkypeOneWay,live:.cid.d6c5601d59db9faf,SHIVVEER SINGH,False,False,,,,,,,,SHIVVEER,,SINGH,,,,,,,,,live:.cid.d6c5601d59db9faf,InitConversation,2023-02-26 17:42:38Z
+SkypeOneWay,live:.cid.db082223fa507837,Shivveer Singh,False,False,,,,,,,,Shivveer,,Singh,,,,,,,,,live:.cid.db082223fa507837,InitConversation,2023-02-26 17:42:34Z
+SkypeOneWay,live:manas250830,Shivveer Singh,False,False,,,,,,,,Shivveer,,Singh,,,,,,,,,live:manas250830,InitConversation,2023-02-26 17:42:31Z
+Skype,live:.cid.64cbe21580fc4e87,Mention Sound,False,False,,,,,,,,Mention,,Sound,,,,,,,,,live:.cid.64cbe21580fc4e87,"AcceptConversation, AcceptInvite",2023-02-26 10:07:19Z
+Skype,live:.cid.11177383a4046beb,Sumeet Ramdass,False,False,https://avatar.skype.com/v1/avatars/live:.cid.11177383a4046beb/public,,,,,,,Sumeet,,Ramdass,,,,,,,,,live:.cid.11177383a4046beb,InitConversation,2023-02-24 16:23:05Z
+SkypeOneWay,live:.cid.452937b1aeba77d5,Perfect man,False,False,,,,,,,,Perfect,,man,,,,,,,,,live:.cid.452937b1aeba77d5,InitConversation,2023-02-23 16:10:18Z
+Skype,live:.cid.626f0fe9226ca276,Kerri Madissoo,False,False,https://avatar.skype.com/v1/avatars/live:.cid.626f0fe9226ca276/public,,,,,,,Kerri,,Madissoo,,,,,,,,,live:.cid.626f0fe9226ca276,AcceptConversation,2023-02-22 08:47:27Z
+Skype,live:.cid.ca3aa854ff4496a7,Click,False,False,https://avatar.skype.com/v1/avatars/live:.cid.ca3aa854ff4496a7/public,,,,,,,Click,,,,,,,"Open banking payment provider, offering APM solutions across the UK and EU.",,,,live:.cid.ca3aa854ff4496a7,InitConversation,2023-02-19 14:31:08Z
+SkypeOneWay,live:js117222,fake Pssport. DL and ID. Business card. Logo,False,False,https://avatar.skype.com/v1/avatars/live:js117222/public,,,,,,,fake,,Pssport. DL and ID. Business card. Logo,,,,,,,,,live:js117222,InitConversation,2023-02-13 14:15:42Z
+Skype,live:.cid.45e6768f4e4464b8,Green Card ID Card DL Passport SSN Bills Maker,False,False,https://avatar.skype.com/v1/avatars/live:.cid.45e6768f4e4464b8/public,,,,,,"<ss type=""computer"">(computer)</ss> Hi i am Documents Maker(Graphics Expert) All Countires Identity Card, Driving License, Passport , Utility Bills, Phone Bills, Bank Credit Card Statments , SSN any name, address Available.",Green,,Card ID Card DL Passport SSN Bills Maker,,,,,,,,,live:.cid.45e6768f4e4464b8,InitConversation,2023-02-13 14:13:46Z
+Skype,live:.cid.f90821cb6686f263,Green Card -ID Card - DL -Passport SSN Bills Maker,False,False,https://avatar.skype.com/v1/avatars/live:.cid.f90821cb6686f263/public,,,,,,"ID Card, Driving License, Green Card, SSN Card, Passports, Utility Bills, Bank Statemtents",Green,,Card -ID Card - DL -Passport SSN Bills Maker,,,,,,,,,live:.cid.f90821cb6686f263,InitConversation,2023-02-13 14:13:28Z
+SkypeOneWay,live:.cid.285bd01e4004ae09,*CTO,False,False,,,,,,,,Engineer,,,,,,,,,,,live:.cid.285bd01e4004ae09,"AcceptConversation, AcceptInvite",2023-02-09 21:04:32Z
+SkypeOneWay,live:.cid.c39654dfafe9d408,Raven Technologies,False,False,,,,,,,,Raven,,Technologies,,,,,,,,,live:.cid.c39654dfafe9d408,InitConversation,2023-02-09 20:23:19Z
+Skype,crasher2406,*Mike V,False,False,,male,home,pl,Wroclaw,,,Mike,,V,48500468674,mobile,,,,,,,crasher2406,"AcceptConversation, AcceptInvite",2023-02-09 07:16:31Z
+SkypeOneWay,lakharaganpat,Ganpat Lakhara,False,False,https://avatar.skype.com/v1/avatars/lakharaganpat/public,male,home,in,surat,,,Ganpat,,Lakhara,,,,,,,,,lakharaganpat,"AddContact (T2), InitConversation",2023-02-07 20:00:37Z
+Skype,live:.cid.eab1039f40be39ef,Bogdan Diaconu,False,False,,,,,,,,Bogdan,,Diaconu,,,,,,,,,live:.cid.eab1039f40be39ef,AcceptConversation,2023-03-02 19:00:27Z
+SkypeOneWay,piocloud,PioCloud,False,False,https://avatar.skype.com/v1/avatars/piocloud/public,,home,tw,,,,PioCloud,,,,,,,,,,,piocloud,InitConversation,2023-02-02 07:53:01Z
+Skype,live:.cid.b5aa4b4c110448a,*R@inbow*,False,False,https://avatar.skype.com/v1/avatars/live:.cid.b5aa4b4c110448a/public,male,,,,,,*R@inbow*,,,,,,,I am senior full stack developer for Web && Mobile app.,,,,live:.cid.b5aa4b4c110448a,"AcceptConversation, AcceptInvite",2023-01-31 08:17:14Z
+Skype,live:.cid.e5ebc4dd06e1344f,BQ c,False,False,,,,,,,,BQ,,c,,,,,,,,,live:.cid.e5ebc4dd06e1344f,"AcceptConversation, AcceptInvite",2023-01-30 07:17:03Z
+Skype,mynaradi931,Radion Mynayev,False,True,https://avatar.skype.com/v1/avatars/mynaradi931/public,male,home,ca,East Gwillimbury,Ontario,,Radion,,Mynayev,2267004405,mobile,,,Good heart and easy going.,,,www.complicate.it,mynaradi931,InitConversation,2023-01-28 10:42:58Z
+Skype,splatin1,שחף פלטין,False,True,,male,home,il,,,,שחף פלטין,,,,,,,,,,,splatin1,"AcceptConversation, AcceptInvite",2023-01-24 14:00:00Z
+Skype,live:.cid.efb722b28c155244,Adeem Waseem Malik,False,False,https://avatar.skype.com/v1/avatars/live:.cid.efb722b28c155244/public,male,home,pk,Lahore,Punjab,,Adeem,,Waseem Malik,,,,,,,,,live:.cid.efb722b28c155244,"AcceptConversation, AcceptInvite",2023-01-16 10:02:06Z
+Skype,live:.cid.b9e339f41d4fd761,aurora,False,False,,,,,,,,aurora,,,,,,,,,,,live:.cid.b9e339f41d4fd761,"AcceptConversation, AcceptInvite",2023-01-16 09:08:47Z
+Skype,live:.cid.f01e8e3b17af2185,Robert Anthony,False,False,,,,,,,,Robert,,Anthony,,,,,,,,,live:.cid.f01e8e3b17af2185,"AcceptConversation, AcceptInvite",2023-01-09 19:47:27Z
+Skype,live:brian0l,Brian Cackstone,False,False,,,,,,,,Brian,,Cackstone,,,,,,,,,live:brian0l,"AcceptConversation, AcceptInvite",2022-12-27 20:03:51Z
+Skype,mateo11-28,Miguel Prado,False,False,https://avatar.skype.com/v1/avatars/mateo11-28/public,,home,de,,,,Miguel Prado,,,4915738910850,mobile,,,,,,,mateo11-28,"AcceptConversation, AcceptInvite",2022-12-27 17:37:04Z
+Skype,zold_laszlo,Laszlo Zold,False,False,https://avatar.skype.com/v1/avatars/zold_laszlo/public,,home,hu,Budapest,,,Laszlo,,Zold,,,,,,,,,zold_laszlo,"AcceptConversation, AcceptInvite",2022-12-27 16:00:23Z
+Skype,sebastian201109,sebastian Fuchs,False,False,,,home,DE,berlin,,,sebastian,,Fuchs,,,,,,,,,sebastian201109,InitConversation,2022-12-27 15:54:43Z
+Skype,live:.cid.b22aa7e37c586a15,ishow speedog,False,False,,,,,,,,ishow,,speedog,,,,,,,,,live:.cid.b22aa7e37c586a15,"OffnetInvite, AcceptInvite",2022-12-22 17:27:33Z
+Skype,live:jeetsharma753,jitu sharma,False,False,https://avatar.skype.com/v1/avatars/live:jeetsharma753/public,,,,,,"<ss type=""rainbow"">(rainbow)</ss> Front End Developer",jitu,,sharma,,,,,,,,,live:jeetsharma753,"AcceptConversation, AcceptInvite",2022-12-21 10:51:32Z
+Skype,live:.cid.7b456e60da648764,Eric Huilerie,False,False,,,,,,,,Eric,,Huilerie,,,,,,,,,live:.cid.7b456e60da648764,"AcceptConversation, AcceptInvite",2022-12-19 14:29:06Z
+Skype,titopito,Carlos from Mexico,False,False,https://avatar.skype.com/v1/avatars/titopito/public,,,,,,,,,,,,,,,,,,titopito,"AcceptConversation, AcceptInvite",2022-12-14 05:50:31Z
+Skype,live:.cid.3c3a587dcb29fb4d,Suneel,False,True,https://avatar.skype.com/v1/avatars/live:.cid.3c3a587dcb29fb4d/public,male,home,in,hyderabad,telangana,,Suneel,,,,,,,,,,,live:.cid.3c3a587dcb29fb4d,"AddContact (T2), InitConversation",2022-12-10 07:20:57Z
+Skype,live:.cid.e69509013a0150d7,Phil Hopkins,False,False,,,,,,,,Phil,,Hopkins,,,,,,,,,live:.cid.e69509013a0150d7,"AcceptConversation, AcceptInvite",2022-12-07 10:23:06Z
+Skype,live:.cid.8a70b7a6f52177ce,Chantal.Michelle,False,False,,,home,nl,,,,Chantal.Michelle,,,,,,,,,,,live:.cid.8a70b7a6f52177ce,"AcceptConversation, AcceptInvite",2022-12-05 14:06:24Z
+Skype,sriramphanib,Sriram Phani,False,False,,male,home,IN,Hyderabad,Andhra Pradesh,CTO at Bizgaze,Sriram,,Phani,919030066615,mobile,,,,,,terminusoft.com,sriramphanib,InitConversation,2022-11-30 04:47:17Z
+Skype,live:.cid.b017eaaefc8315f3,Bryan,False,False,,,,,,,,Bryan,,,,,,,,,,,live:.cid.b017eaaefc8315f3,"AcceptConversation, AcceptInvite",2022-11-21 19:00:52Z
+SkypeOneWay,live:.cid.1fc33ae16db3bb3b,Jayantilal Prajapati,False,False,,,,,,,,Jayantilal,,Prajapati,,,,,,,,,live:.cid.1fc33ae16db3bb3b,InitConversation,2022-11-19 14:41:09Z
+SkypeOneWay,live:.cid.218e23a5e303237c,jayantilal prajapati,False,False,,,,,,,,jayantilal,,prajapati,,,,,,,,,live:.cid.218e23a5e303237c,InitConversation,2022-11-19 14:41:07Z
+Skype,live:.cid.daa6422467e26e3d,Troica,False,False,https://avatar.skype.com/v1/avatars/live:.cid.daa6422467e26e3d/public,,,,,,"Work Smart, Not Hard !!!",Troica,,,,,,,,,,,live:.cid.daa6422467e26e3d,InitConversation,2022-11-13 11:12:16Z
+Skype,live:.cid.70028e742430177b,VICTORY,False,False,https://avatar.skype.com/v1/avatars/live:.cid.70028e742430177b/public,,,,,,,VICTORY,,,,,,,,,,,live:.cid.70028e742430177b,"AcceptConversation, AcceptInvite",2022-12-15 23:46:28Z
+Skype,live:igorhm7070,Freelancer Accounts,False,False,https://avatar.skype.com/v1/avatars/live:igorhm7070/public,,,,,,"<ss type=""wfh"">(wfh)</ss>",Freelancer,,Accounts,,,,,,,,,live:igorhm7070,InitConversation,2022-11-08 09:28:16Z
+SkypeOneWay,mastertram,Freelancer.com/Paypal accounts seller (Michael),False,False,https://avatar.skype.com/v1/avatars/mastertram/public,male,home,ua,,,,Freelancer.com/Paypal,,accounts seller (Michael),,,,,,,,,mastertram,InitConversation,2022-11-08 09:27:53Z
+Skype,live:.cid.838ffacb5959c3fb,Professional Creator & Seller of Accounts,False,False,https://avatar.skype.com/v1/avatars/live:.cid.838ffacb5959c3fb/public,,,,,,,Professional,,Creator & Seller of Accounts,,,,,,,,,live:.cid.838ffacb5959c3fb,InitConversation,2022-11-08 09:16:15Z
+Skype,live:robert676765,Social Account Seller,False,False,https://avatar.skype.com/v1/avatars/live:robert676765/public,male,home,us,,,"Reinstate FB Acc Are Now only 35$ And Business Manager Verified Are Now At 99$",Social,,Account Seller,,,,,"Hello This Is Social Accounts Seller 
+I m here to Help You For Ur All Social Problem 
+For more Details Visit Our Website 
+https://socialaccountsseller.com/
+
+Thank You
+",,,,live:robert676765,InitConversation,2022-11-08 09:15:50Z
+Skype,live:.cid.b51d0aa1bf73a1b0,Srinivas gowd R,False,False,https://avatar.skype.com/v1/avatars/live:.cid.b51d0aa1bf73a1b0/public,,,,,,"<ss type=""pullshot"">(pullshot)</ss>",Srinivas gowd,,R,,,,,,,,,live:.cid.b51d0aa1bf73a1b0,"AcceptConversation, AcceptInvite",2022-11-01 07:51:42Z
+Skype,alexvilla37,alejandro villaseñor,False,False,https://avatar.skype.com/v1/avatars/alexvilla37/public,male,home,mx,guadalajara,,,alejandro villaseñor,,,447748678534,mobile,,,,,,,alexvilla37,InitConversation,2022-10-28 06:34:07Z
+SkypeOneWay,letusdesignyourwebpage,Let us Design your Webpage,False,False,https://avatar.skype.com/v1/avatars/letusdesignyourwebpage/public,male,home,US,San Francisco,,,Let us,,Design your Webpage,,,,,,,,,letusdesignyourwebpage,InitConversation,2022-10-26 08:25:05Z
+SkypeOneWay,live:webpage.design,Webpage Design,False,False,,,,,,,,Webpage,,Design,,,,,,,,,live:webpage.design,InitConversation,2022-10-26 08:24:54Z
+SkypeOneWay,webpage.design,Webpage Design,False,False,https://avatar.skype.com/v1/avatars/webpage.design/public,male,home,lt,,,,Webpage,,Design,,,,,,,,,webpage.design,InitConversation,2022-10-26 08:24:38Z
+Skype,harsh.iwd,Harsh Choubey,False,False,,male,home,in,,,Busy,Harsh,,Choubey,919986251206,mobile,,,,,,,harsh.iwd,InitConversation,2022-10-21 07:43:27Z
+SkypeOneWay,seminight,Vee / vppromoter,False,False,https://avatar.skype.com/v1/avatars/seminight/public,male,home,lt,Vilnius,Vilniaus,,Vee / vppromoter,,,,,,,I heit ju,,,,seminight,InitConversation,2022-10-21 06:32:56Z
+Skype,live:psnag111345,shyam nag polamarasetty,False,False,,male,home,in,Hyderabad,,,shyam,,nag polamarasetty,,,,,,,,,live:psnag111345,InitConversation,2022-10-21 03:23:58Z
+Skype,live:.cid.b15b1d3ba61fbabd,Shazz.Lfc,False,False,https://avatar.skype.com/v1/avatars/live:.cid.b15b1d3ba61fbabd/public,,,,,,,Shazz.Lfc,,,,,,,,,,,live:.cid.b15b1d3ba61fbabd,InitConversation,2022-10-19 12:35:52Z
+SkypeOneWay,live:.cid.e98b2c2f8fbf7c90,Ruth Anderson,False,False,,,,,,,,Ruth,,Anderson,,,,,,,,,live:.cid.e98b2c2f8fbf7c90,"AddContact (T2), InitConversation",2022-10-17 20:20:24Z
+Skype,live:david.meskel,David Meskel,False,False,,,,,,,,David,,Meskel,,,,,,,,,live:david.meskel,"AcceptConversation, AcceptInvite",2022-10-12 09:16:36Z
+SkypeOneWay,live:.cid.5de2346efb2853de,Rustam Mirza,False,False,,,,,,,,Rustam,,Mirza,,,,,,,,,live:.cid.5de2346efb2853de,InitConversation,2022-10-09 05:37:26Z
+SkypeOneWay,rustam.mirza,rustam mirza,False,False,,male,home,au,Melbourne,,,rustam,,mirza,,,,,,,,,rustam.mirza,InitConversation,2022-10-09 04:45:05Z
+Skype,live:lamngoctam,TAM NGOC LAM,False,False,https://avatar.skype.com/v1/avatars/live:lamngoctam/public,male,home,vn,Danang,,,TAM NGOC,,LAM,61405070456,mobile,,,,,,,live:lamngoctam,InitConversation,2022-10-07 14:53:44Z
+Skype,live:dhyuman,Dhyuman,False,False,,,,,,,,Dhyuman,,,,,,,,,,,live:dhyuman,"AcceptConversation, AcceptInvite",2022-09-26 09:25:29Z
+Skype,live:.cid.6fdae07ceef50a60,DongYu,False,False,,male,home,hk,,,,DongYu,,,,,,,,,,,live:.cid.6fdae07ceef50a60,"AcceptConversation, AcceptInvite",2022-09-26 08:53:03Z
+Skype,munot.sagar,Sagar Munot(Vue JS/React Js/PHP/Laravel/SuiteCRM),False,False,,male,home,in,Pune,MH,"React Js, Vue Js, PHP, Laravel, SugarCRM/SuiteCRM website Developer",Sagar,,Munot(Vue JS/React Js/PHP/Laravel/SuiteCRM),919022091963,mobile,,,PHP/Laravel/SugarCRM/SuiteCRM/React JS/CakePHP/ Vue JS freelancer Developer,,,,munot.sagar,"AcceptConversation, AcceptInvite",2022-09-23 13:02:22Z
+Skype,live:.cid.fd766d53b0846691,hamsika naveen,False,False,,,,,,,,hamsika,,naveen,,,,,,,,,live:.cid.fd766d53b0846691,"AcceptConversation, AcceptInvite",2022-09-19 07:28:00Z
+Skype,live:.cid.b2c8c6efb8b1f823,Rahul Katari,False,False,https://avatar.skype.com/v1/avatars/live:.cid.b2c8c6efb8b1f823/public,male,home,in,,,,Rahul,,Katari,,,,,,,,,live:.cid.b2c8c6efb8b1f823,InitConversation,2022-09-13 05:54:27Z
+Skype,benjamin.casinopartner,benjamin.casinopartner,False,False,,,,,,,,,,,,,,,,,,,benjamin.casinopartner,InitConversation,2022-09-08 13:35:20Z
+Skype,live:20bf7d270d387f94,durga prasad k,False,True,https://avatar.skype.com/v1/avatars/live:20bf7d270d387f94/public,male,home,in,hyderabad,,Be Positive,durga,,prasad k,,,,,,,,,live:20bf7d270d387f94,InitConversation,2022-09-06 10:15:34Z
+Skype,live:.cid.292d00679dafa7bd,Ho Tien,False,False,,,,,,,,Ho,,Tien,,,,,,,,,live:.cid.292d00679dafa7bd,InitConversation,2022-08-27 03:30:35Z
+Skype,live:.cid.7a7cb31cbb82a1d9,Atharv Channa,False,False,,,,,,,,Atharv,,Channa,,,,,,,,,live:.cid.7a7cb31cbb82a1d9,"AcceptConversation, AcceptInvite",2022-08-25 02:27:45Z
+Skype,yas.dal2,YASEEN HAMEED,False,False,https://avatar.skype.com/v1/avatars/yas.dal2/public,male,home,iq,Al-Anbar,,"<ss type=""wfh"">(wfh)</ss> Life has no CTRL + Z so think before you act ..",YASEEN,,HAMEED,,,,,,,,,yas.dal2,"AcceptConversation, AcceptInvite",2022-10-12 08:11:52Z
+Skype,live:mrlevantho,Tho Le Van,False,False,https://avatar.skype.com/v1/avatars/live:mrlevantho/public,male,home,vn,Hà Nội,,,Tho,,Le Van,,,,,,,,,live:mrlevantho,"AcceptConversation, AcceptInvite",2022-08-06 07:54:45Z
+Skype,live:.cid.65c14a3c2024a9b1,"Pradeep Rao - Unity VR, AR, Kinect Developer",False,False,,,,,,,"<ss type=""brb"">(brb)</ss> Be right back",Pradeep,,Rao,,,,,,,,,live:.cid.65c14a3c2024a9b1,InitConversation,2022-08-05 06:25:01Z
+Skype,jayamsoft.hiten,Hiten Patel,False,False,https://avatar.skype.com/v1/avatars/jayamsoft.hiten/public,male,home,in,Surat,Gujarat,,Hiten,,Patel,919879474078,mobile,,,,,,www.jayamsoft.net,jayamsoft.hiten,InitConversation,2022-08-02 06:16:26Z
+Skype,ram_dnn,ramakrishna,False,False,https://avatar.skype.com/v1/avatars/ram_dnn/public,male,home,IN,hyd,,"<ss type=""1f4ab_dizzysymbol"">(1f4ab_dizzysymbol)</ss> <a href=""https://discord.gg/S9MjhSJf"">https://discord.gg/S9MjhSJf</a>",ramakrishna,,,,,,,,,,,ram_dnn,"AcceptConversation, AcceptInvite",2022-07-27 13:16:58Z
+Skype,live:.cid.d09574003f1d5860,Yadla Pavan,False,False,https://avatar.skype.com/v1/avatars/live:.cid.d09574003f1d5860/public,,,,,,,Yadla,,Pavan,,,,,,,,,live:.cid.d09574003f1d5860,"AcceptConversation, AcceptInvite",2022-07-26 05:50:59Z
+Skype,live:.cid.8f9edcd86a0827cc,abdul basit - UI Designer,False,False,,,,,,,,abdul,,basit,,,,,,,,,live:.cid.8f9edcd86a0827cc,"AcceptConversation, AcceptInvite",2022-07-25 06:16:09Z
+SkypeOneWay,live:.cid.601e5ed9fb1a3bf6,Ming Zou,False,False,,male,home,hk,,,,Ming,,Zou,,,,,,,,,live:.cid.601e5ed9fb1a3bf6,InitConversation,2022-07-24 14:27:53Z
+SkypeOneWay,shzhyt,Shz,True,False,https://avatar.skype.com/v1/avatars/shzhyt/public,male,home,pk,islamabad,,,Shz,,,,,,,I am Fine! Thank You.,,,,shzhyt,"AcceptConversation, AcceptInvite",2022-07-22 11:35:39Z
+Bot,354c3126-c418-492d-8ca4-70eec3c622ee,Able Liverpool,False,False,https://bot-framework.azureedge.net/bot-icons-v1/Able_Liverpool_2c37CM58R9qADo42ecDSEEzhESlMW35W2ppojEEaGI37et.png,,,,,,,Able Liverpool,,,,,,,,,,,354c3126-c418-492d-8ca4-70eec3c622ee,,2022-07-18 13:44:09Z
+Skype,majorisss,Ray Nadir,False,False,,,home,AU,,,,Ray,,Nadir,61435376013,mobile,,,,,,,majorisss,"AcceptConversation, AcceptInvite",2022-07-18 06:40:13Z
+Skype,live:pkassen,Patrick Kassen,False,False,,,,,,,,Patrick,,Kassen,,,,,,,,,live:pkassen,InitConversation,2022-07-16 02:56:34Z
+Skype,live:.cid.65e670fdaf212c5c,Quirin Kraus,False,False,,,,,,,,Quirin,,Kraus,,,,,,,,,live:.cid.65e670fdaf212c5c,"AcceptConversation, AcceptInvite",2022-07-12 14:01:22Z
+Skype,skysoft-corp,Rogelio Angulo,False,False,https://avatar.skype.com/v1/avatars/skysoft-corp/public,,,,,,,Rogelio,,Angulo,50765626280,home,50765626280,mobile,,50765626280,office,,skysoft-corp,InitConversation,2022-07-12 13:12:46Z
+Skype,live:.cid.b58c878efa58c5c6,Pront Prabs,False,False,,,,,,,,Pront,,Prabs,,,,,,,,,live:.cid.b58c878efa58c5c6,"AcceptConversation, AcceptInvite",2022-07-12 02:08:40Z
+Skype,live:abhishektyagi9759,abhishek tyagi,False,False,https://avatar.skype.com/v1/avatars/live:abhishektyagi9759/public,male,home,in,Lucknow,UttarPradesh,,abhishek,,tyagi,919759727137,mobile,,,Unity Developer,,,,live:abhishektyagi9759,"AcceptConversation, AcceptInvite",2022-07-10 13:40:24Z
+Skype,live:.cid.64f17facc04ac3e0,Alchemist,False,False,https://avatar.skype.com/v1/avatars/live:.cid.64f17facc04ac3e0/public,male,home,,Jutopia,,"<ss type=""wfh"">(wfh)</ss> Working from home",Alchemist,,,,,,,,,,,live:.cid.64f17facc04ac3e0,"AcceptConversation, AcceptInvite",2022-07-10 13:37:27Z
+Skype,live:.cid.b2d42fada3349a2c,Abhik Kundu,False,False,,,,,,,,Abhik,,Kundu,,,,,,,,,live:.cid.b2d42fada3349a2c,"AcceptConversation, AcceptInvite",2022-07-08 16:08:19Z
+Skype,live:.cid.d0a58d5acdd57cb4,CryptoKnight,False,False,,,,,,,,CryptoKnight,,,,,,,,,,,live:.cid.d0a58d5acdd57cb4,InitConversation,2022-07-07 03:11:48Z
+Skype,live:.cid.496b808eeea5efb,Tamer Hmede,False,False,https://avatar.skype.com/v1/avatars/live:.cid.496b808eeea5efb/public,,,,,,,Tamer,,Hmede,,,,,,,,,live:.cid.496b808eeea5efb,"AcceptConversation, AcceptInvite",2022-07-03 10:10:26Z
+Skype,live:.cid.c7c83190b26b1bc4,anukriti saroha,False,False,,,,,,,,anukriti,,saroha,,,,,,,,,live:.cid.c7c83190b26b1bc4,"AcceptConversation, AcceptInvite",2022-07-03 09:30:36Z
+Skype,live:pietrokola777,pietro pietro,False,False,https://avatar.skype.com/v1/avatars/live:pietrokola777/public,,,,,,,pietro,,pietro,,,,,,,,,live:pietrokola777,"AcceptConversation, AcceptInvite",2022-07-03 09:30:13Z
+SkypeOneWay,live:.cid.503f849b94d45f79,Web/APP CTO,False,False,https://avatar.skype.com/v1/avatars/live:.cid.503f849b94d45f79/public,,,,,,,Web/APP,,CTO,,,,,,,,,live:.cid.503f849b94d45f79,InitConversation,2022-07-01 10:45:59Z
+Skype,live:a1f081eb5667e657,Misho Misho,False,False,,,,,,,,Misho,,Misho,,,,,,,,,live:a1f081eb5667e657,InitConversation,2022-07-01 02:50:57Z
+Skype,live:.cid.9d5075eeae4445a1,Vadym Kolomiichuk,False,False,,,,,,,,Vadym,,Kolomiichuk,,,,,,,,,live:.cid.9d5075eeae4445a1,InitConversation,2022-07-01 02:48:16Z
+Skype,live:.cid.6858db89f30f7598,Dev W,False,False,,,,,,,,Dev,,W,,,,,,,,,live:.cid.6858db89f30f7598,InitConversation,2022-07-01 02:40:54Z
+Skype,live:.cid.1a5621f5bffda7f7,Milo Milo,False,False,,,,,,,,Milo,,Milo,,,,,,,,,live:.cid.1a5621f5bffda7f7,InitConversation,2022-06-30 14:16:27Z
+Skype,live:.cid.a208cc7566aabf25,Andrey (Freelancer.com rental service),False,False,https://avatar.skype.com/v1/avatars/live:.cid.a208cc7566aabf25/public,,,,,,"<a href=""https://t.me/freelanceraccts"">https://t.me/freelanceraccts</a>",Andrey,,(Freelancer.com rental service),,,,,,,,,live:.cid.a208cc7566aabf25,InitConversation,2022-06-30 08:08:44Z
+Skype,live:.cid.efcb109c5e8e73ef,88 ansome,False,False,,,,,,,,88,,ansome,,,,,,,,,live:.cid.efcb109c5e8e73ef,InitConversation,2022-06-30 08:00:58Z
+SkypeOneWay,live:.cid.792e1ef716fdd9f6,Сан Саныч,False,False,,,,,,,,Сан,,Саныч,,,,,,,,,live:.cid.792e1ef716fdd9f6,InitConversation,2022-06-30 07:59:07Z
+Skype,live:huhu110_1,GoEugene,False,True,https://avatar.skype.com/v1/avatars/live:huhu110_1/public,,,,,,,GoEugene,,,,,,,,,,,live:huhu110_1,InitConversation,2022-06-28 02:52:26Z
+SkypeOneWay,ben.padnos,ben padnos,False,False,https://avatar.skype.com/v1/avatars/ben.padnos/public,male,home,us,Manhattan Beach,California,,ben padnos,,,,,,,,,,www.benpadnos.com,ben.padnos,InitConversation,2022-05-09 01:56:24Z
+Skype,live:.cid.ce5c6ced648743db,devgod1007,False,False,,,,,,,,devgod1007,,,,,,,,,,,live:.cid.ce5c6ced648743db,InitConversation,2022-05-06 00:48:48Z
+SkypeOneWay,live:.cid.86ea39bbb4e49528,Zhack,False,False,,,,,,,,Zhack,,,,,,,,,,,live:.cid.86ea39bbb4e49528,InitConversation,2022-04-12 14:44:56Z
+Skype,live:.cid.d9556356ee8447b3,Petra Blaho,False,False,https://avatar.skype.com/v1/avatars/live:.cid.d9556356ee8447b3/public,,,,,,"on the way <ss type=""smile"">:)</ss>",Petra,,Blaho,,,,,,,,,live:.cid.d9556356ee8447b3,InitConversation,2022-01-06 10:45:27Z
+SkypeOneWay,live:.cid.33af3e38aec3993f,Hale Green,False,False,,,,,,,,Hale,,Green,,,,,,,,,live:.cid.33af3e38aec3993f,InitConversation,2021-12-21 15:19:35Z
+SkypeOneWay,live:a_preeti_o,Pretti,False,False,https://avatar.skype.com/v1/avatars/live:a_preeti_o/public,female,home,in,Mumbai,Maharashtra,,Pretti,,,,,,,,,,,live:a_preeti_o,InitConversation,2021-12-20 05:06:19Z
+Skype,live:.cid.4d6f3050390c1f37,Swati yadav,False,False,,female,home,in,,Madhya Pradesh,,Swati,,yadav,,,,,,,,,live:.cid.4d6f3050390c1f37,"AcceptConversation, AcceptInvite",2021-12-17 21:34:40Z
+SkypeOneWay,live:.cid.bc5ef28a9e9f60c5,CK,False,False,,,,,,,,CK,,,,,,,,,,,live:.cid.bc5ef28a9e9f60c5,InitConversation,2021-11-14 10:29:53Z
+SkypeOneWay,live:zhangwenbin2013,Albin Chang,False,False,,,,,,,,Albin,,Chang,,,,,,,,,live:zhangwenbin2013,InitConversation,2021-11-13 07:30:21Z
+Skype,live:.cid.b3c5073fc800af33,Sweety_Jaroli17,False,False,https://avatar.skype.com/v1/avatars/live:.cid.b3c5073fc800af33/public,female,home,in,Indore,,,Sweety_Jaroli17,,,,,,,,,,,live:.cid.b3c5073fc800af33,"AcceptInvite, AcceptConversation",2021-11-08 07:27:15Z
+SkypeOneWay,live:6cc09cbaff363a71,My Friend,False,False,https://avatar.skype.com/v1/avatars/live:6cc09cbaff363a71/public,male,,,,,,My,,Friend,,,,,,,,,live:6cc09cbaff363a71,"AcceptInvite, AcceptConversation",2021-11-03 14:32:27Z
+Skype,live:.cid.14bf60843c3a7642,Coss Constantin,False,False,,,,,,,,Coss,,Constantin,,,,,,,,,live:.cid.14bf60843c3a7642,"AcceptInvite, AcceptConversation",2021-10-28 21:44:50Z
+Skype,diligent_rath,Subhasish Rath : Prodigitaly,False,False,https://avatar.skype.com/v1/avatars/diligent_rath/public,male,home,in,Indore,,"Empowering  Brands with 360° Digital Marketing , SEO ,Google Analytics, Social Media and Email marketing Expert",Subhasish,,Rath : Prodigitaly,917697079299,mobile,,,,,,https://www.linkedin.com/profile/view?id=143910782&amp;trk=nav_responsive_tab_profile,diligent_rath,InitConversation,2021-10-26 14:13:00Z
+SkypeOneWay,live:rolandhalegreen,Jodeaux,False,False,,,,,,,,Jodeaux,,,,,,,,,,,live:rolandhalegreen,InitConversation,2021-10-24 11:47:00Z
+SkypeOneWay,live:dgmax,DGMAX Technology,False,False,https://avatar.skype.com/v1/avatars/live:dgmax/public,,,,,,,DGMAX,,Technology,,,,,,,,,live:dgmax,InitConversation,2021-10-23 01:43:40Z
+Skype,live:.cid.6730c87273bcb853,Major Twild,False,False,,,,,,,,Major,,Twild,,,,,,,,,live:.cid.6730c87273bcb853,"AcceptInvite, AcceptConversation",2021-10-22 14:32:37Z
+Skype,matt-vemmio,Matt,False,False,https://avatar.skype.com/v1/avatars/matt-vemmio/public,,home,PL,,,,Matt,,,,,,,,,,,matt-vemmio,"AcceptInvite, AcceptConversation",2021-10-22 11:59:53Z
+Skype,live:.cid.7853629c034be101,Shivakumar.V,False,False,https://avatar.skype.com/v1/avatars/live:.cid.7853629c034be101/public,,,,,,"<ss type=""hearteyes"">(hearteyes)</ss> Alaa office lo",Shivakumar.V,,,,,,,,,,,live:.cid.7853629c034be101,AcceptInvite,2021-10-19 12:52:07Z
+SkypeOneWay,xdaveplx,Dawid,False,False,https://avatar.skype.com/v1/avatars/xdaveplx/public,,home,pl,,,,Dawid,,,,,,,Kilka słów o mnie =),,,,xdaveplx,InitConversation,2021-10-07 10:13:16Z
+Skype,live:sowrisurya,Surya Sowri,False,False,https://avatar.skype.com/v1/avatars/live:sowrisurya/public,male,home,in,Kakinada,Andhra Pradesh,No one ever made differences just by being like everyone else,Surya,,Sowri,,,,,,,,,live:sowrisurya,InitConversation,2021-10-04 15:10:51Z
+Skype,live:.cid.f29c3f96873f539,Ravi K.,False,False,https://avatar.skype.com/v1/avatars/live:.cid.f29c3f96873f539/public,male,home,in,Jaipur,Rajasthan,All our dreams can come true; if we have the courage to pursue them.,Ravi,,K.,7891120700,mobile,,,Information Technologis,,,,live:.cid.f29c3f96873f539,"AcceptConversation, AcceptInvite",2022-11-05 01:37:07Z
+Skype,live:.cid.9ee47a8a1dc65eeb,Ay Ay,False,False,,,,,,,,Ay,,Ay,,,,,,,,,live:.cid.9ee47a8a1dc65eeb,"AcceptInvite, AcceptConversation",2021-08-16 00:40:21Z
+Skype,live:.cid.fc52061d5af080e5,Judi Mcdowell,False,False,https://avatar.skype.com/v1/avatars/live:.cid.fc52061d5af080e5/public,,,,,,,Judi,,Mcdowell,,,,,,,,,live:.cid.fc52061d5af080e5,"AcceptInvite, AcceptConversation",2021-08-15 23:17:35Z
+SkypeOneWay,brunersrl,Bruner,False,False,https://avatar.skype.com/v1/avatars/brunersrl/public,male,home,gb,,,,Bruner,,,,,,,,,,,brunersrl,"AcceptInvite, AcceptConversation",2021-08-04 10:31:42Z
+Skype,shashank.shekhar1810,Shashank  Shekhar,False,False,https://avatar.skype.com/v1/avatars/shashank.shekhar1810/public,male,home,in,Delhi,Delhi,Delight is a state of mind.,Shashank  Shekhar,,,919717257222,home,15718302266,office,,,,,shashank.shekhar1810,AcceptConversation,2021-08-02 16:37:34Z
+Skype,live:.cid.e16a0db79c346c98,Developer,False,False,,male,,,,,"<ss type=""wfh"">(wfh)</ss> Working from home",Developer,,,381605404177,mobile,,,Web and Mobile App Developer,,,,live:.cid.e16a0db79c346c98,InitConversation,2021-07-19 18:58:57Z
+Skype,live:sunearth.dolpin,Matvey,False,False,,,home,ru,st petersburg,,,Matvey,,,,,,,,,,,live:sunearth.dolpin,InitConversation,2021-07-14 16:56:55Z
+Skype,live:.cid.4c5519aa7378e750,Dads Corporation,False,False,,female,home,in,Bangalore,Karnataka,,Dads,,Corporation,,,,,,,,,live:.cid.4c5519aa7378e750,"AcceptInvite, AcceptConversation",2021-07-08 09:49:49Z
+Skype,live:.cid.ac10c0c0f5eb819,Bohdan,True,False,,,,,,,,Bohdan,,,,,,,,,,,live:.cid.ac10c0c0f5eb819,InitConversation,2021-06-29 14:55:02Z
+Skype,live:info_710862,AMLOGICA,False,False,https://avatar.skype.com/v1/avatars/live:info_710862/public,,,,,,,AMLOGICA,,,,,,,,,,,live:info_710862,InitConversation,2021-06-27 07:06:58Z
+Skype,live:venu.esampally,Venu Esampally,False,True,https://avatar.skype.com/v1/avatars/live:venu.esampally/public,male,home,in,,,Sr. Product Analyst at BizGaze,Venu,,Esampally,8688711886,mobile,,,,,,,live:venu.esampally,"AcceptInvite, AcceptConversation",2021-06-25 05:19:54Z
+Skype,live:.cid.40f0e154865f8e9f,SonYingMao Blockchain & Web developer,False,False,,,,,,,,SonYingMao,,Blockchain & Web developer,,,,,,,,,live:.cid.40f0e154865f8e9f,InitConversation,2021-06-19 11:02:46Z
+Skype,sajinhentry,Sajin Hentry,False,False,,male,home,bh,Bahrain,Bahrain,"<ss type=""plane"">(plane)</ss> Travelling",Sajin Hentry,,,97337199887,mobile,,,"Get up. Be awesome. Go back to bed.
+",,,www.sajinhentry.com,sajinhentry,InitConversation,2021-06-19 09:58:41Z
+Skype,live:.cid.4d98c6f2b75fe14,Lei Wang,False,False,,,,,,,,Lei,,Wang,,,,,,,,,live:.cid.4d98c6f2b75fe14,InitConversation,2021-06-16 12:14:43Z
+Skype,live:varis2908,eliot,False,False,,,,,,,,eliot,,,,,,,,,,,live:varis2908,InitConversation,2021-06-11 10:33:35Z
+Skype,live:bba3032eaf7cf668,Prem Kumar,False,False,,,,,,,,Prem,,Kumar,,,,,,,,,live:bba3032eaf7cf668,"AcceptConversation, AcceptInvite",2021-06-10 13:04:56Z
+Skype,live:.cid.bc89420b7a05c2e3,Soft King,False,False,,male,home,us,,,,Soft,,King,,,,,,,,,live:.cid.bc89420b7a05c2e3,InitConversation,2021-06-09 12:13:58Z
+Skype,live:94e08684adda5450,wes smith,False,False,,,,,,,,wes,,smith,,,,,,,,,live:94e08684adda5450,"AcceptConversation, AcceptInvite",2021-06-03 01:01:11Z
+Skype,live:.cid.76c758ad0f6ea26a,wes smith,False,False,,,,,,,,wes,,smith,,,,,,,,,live:.cid.76c758ad0f6ea26a,"AcceptInvite, AcceptConversation",2021-06-02 15:44:14Z
+Skype,live:51a207847b7949d0,Tanmoy Naskar,False,False,,male,home,in,Kolkata,West Bengal,,Tanmoy,,Naskar,,,,,,,,,live:51a207847b7949d0,"AcceptInvite, AcceptConversation",2021-05-27 12:49:48Z
+Skype,kimshenzhen,George Kim,False,False,,,home,CN,Shenzhen,Guangdong,,George Kim,,,008613823743824,mobile,,,Crescent Science and Technology,,,,kimshenzhen,InitConversation,2021-05-22 04:39:38Z
+SkypeOneWay,live:robotyuanli,YuanLi,False,False,https://avatar.skype.com/v1/avatars/live:robotyuanli/public,male,,,,,,YuanLi,,,,,,,,,,,live:robotyuanli,InitConversation,2021-05-20 17:12:21Z
+Skype,mymoon411,Никола Марковић,False,False,https://avatar.skype.com/v1/avatars/mymoon411/public,male,home,rs,Београд,,"<a href=""https://www.youtube.com/watch?v=NV9OtJXhvek"">https://www.youtube.com/watch?v=NV9OtJXhvek</a>",Никола,,Марковић,,,,,Пиши ћирилицом,,,,mymoon411,"AcceptConversation, AcceptInvite",2021-05-20 11:18:33Z
+Skype,tonyva82,Kripa,False,False,,male,home,in,chennai,TN,,Kripa,,,,,,,,,,,tonyva82,"AcceptInvite, AcceptConversation",2021-05-13 09:48:05Z
+Skype,live:vinay_1012,Vinay Salian,False,True,,,,,,,,Vinay,,Salian,,,,,,,,,live:vinay_1012,"AcceptInvite, AcceptConversation",2021-05-12 11:47:58Z
+SkypeOneWay,live:ajin1001_1,Top-Notch,False,False,,,,,,,,Top-Notch,,,,,,,,,,,live:ajin1001_1,InitConversation,2021-05-11 12:41:57Z
+Skype,manjurebal,Manju,False,False,https://avatar.skype.com/v1/avatars/manjurebal/public,male,home,in,Hyderabad,,&lt;/&gt;,Manju,,,,,,,Android and Flutter Developer,,,,manjurebal,AcceptInvite,2021-05-06 13:25:04Z
+SkypeOneWay,przemyslaw.lech.figarski,P.L.F. Poland,False,False,https://avatar.skype.com/v1/avatars/przemyslaw.lech.figarski/public,male,home,pl,Warszawa,mazowieckie,,P.L.F.,,Poland,,,,,,,,,przemyslaw.lech.figarski,InitConversation,2021-05-03 04:10:27Z
+SkypeOneWay,naftalio,naftali yanay  yanay,False,False,https://avatar.skype.com/v1/avatars/naftalio/public,,home,IL,,,,naftali yanay  yanay,,,,,,,,,,,naftalio,InitConversation,2021-05-03 00:19:43Z
+Skype,severin.kraus,Severin Kraus,False,False,https://avatar.skype.com/v1/avatars/severin.kraus/public,male,home,de,Bad Heilbrunn,Bayern,,Severin Kraus,,,,,,,,,,,severin.kraus,AddContact (T2),2021-05-11 11:49:45Z
+SkypeOneWay,live:.cid.458a64130e966069,Tajmon Tony V,False,False,https://avatar.skype.com/v1/avatars/live:.cid.458a64130e966069/public,male,home,in,Thrissur,Kerala,,Tajmon,,Tony V,,,,,I have just completed my postgraduate in M.Sc Chemistry.,,,,live:.cid.458a64130e966069,InitConversation,2021-04-28 10:55:20Z
+SkypeOneWay,live:kamienskipr82,Kamienski prezmyslaw,False,False,,,,,,,,Kamienski,,prezmyslaw,,,,,,,,,live:kamienskipr82,InitConversation,2021-04-27 14:02:29Z
+SkypeOneWay,halik.prezmyslaw,halik przemyslaw,False,False,https://avatar.skype.com/v1/avatars/halik.prezmyslaw/public,,home,pl,sąspow,,,halik przemyslaw,,,,,,,,,,,halik.prezmyslaw,InitConversation,2021-04-27 13:36:41Z
+Skype,live:sgosalaparamban,Saeed SMIT,False,False,https://avatar.skype.com/v1/avatars/live:sgosalaparamban/public,,home,qa,,,"<ss type=""headbang"">(headbang)</ss> Kimothi Albani",Saeed,,SMIT,,,,,,,,,live:sgosalaparamban,InitConversation,2021-04-26 06:01:18Z
+SkypeOneWay,mahmedsmit,Obaid Ahmed SMIT,False,False,,male,home,qa,Doha,,,Obaid,,Ahmed SMIT,,,,,,,,,mahmedsmit,InitConversation,2021-04-26 05:56:56Z
+Skype,ishaque-smit,Ishaque SMIT,False,False,https://avatar.skype.com/v1/avatars/ishaque-smit/public,,home,qa,,,“Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.”,Ishaque,,SMIT,,,,,,,,,ishaque-smit,InitConversation,2021-04-26 05:56:42Z
+SkypeOneWay,live:joachimsester,Syr ious,False,False,,,,,,,,Syr,,ious,,,,,,,,,live:joachimsester,"AcceptInvite, AcceptConversation",2021-04-25 21:14:40Z
+Skype,live:.cid.7a8c52212e99afe6,Tinu itialuS,False,False,https://avatar.skype.com/v1/avatars/live:.cid.7a8c52212e99afe6/public,,,,,,,Tinu,,itialuS,,,,,,,,,live:.cid.7a8c52212e99afe6,InitConversation,2021-04-25 11:35:43Z
+Skype,diogobsbastos,Diogo Brandão,False,False,https://avatar.skype.com/v1/avatars/diogobsbastos/public,male,home,br,Rio de Janeiro,Rio de Janeiro,"<ss type=""wait"">(wait)</ss> Em reuniões",Diogo,,Brandão,5521984853548,mobile,,,Portal QueroConsertar.com,,,,diogobsbastos,"AcceptInvite, AcceptConversation",2021-04-20 02:56:50Z
+SkypeOneWay,live:.cid.6d59d35b1275873b,Claus Ermlich,False,False,,,,,,,,Claus,,Ermlich,,,,,,,,,live:.cid.6d59d35b1275873b,InitConversation,2021-04-16 07:04:23Z
+Skype,claus.ermlich,Claus Ermlich,False,False,https://avatar.skype.com/v1/avatars/claus.ermlich/public,,home,de,GD,,...good flight,Claus Ermlich,,,49170 4119400,home,,,,,,,claus.ermlich,InitConversation,2021-04-15 16:25:56Z
+Skype,imran777467,Assignments Mania,False,False,https://avatar.skype.com/v1/avatars/imran777467/public,male,home,us,New York,,,Assignments,,Mania,,,,,We assist the students to help for their research papers and assignments.,,,,imran777467,InitConversation,2021-03-30 20:15:27Z
+Skype,terminusoft,Uday Kiran,False,False,https://avatar.skype.com/v1/avatars/terminusoft/public,male,home,in,Hyderabad,AP,,Uday,,Kiran,919030066621,mobile,914023399921,office,,,,http://www.terminusoft.com,terminusoft,"AcceptConversation, AcceptInvite",2021-03-29 14:44:34Z
+Skype,live:abod-104,عبدالله,False,False,,,,,,,,عبدالله,,,,,,,,,,,live:abod-104,"AcceptConversation, AcceptInvite",2021-03-25 08:51:39Z
+Skype,live:b58cc9dc339c490,Ameen London International,False,False,https://avatar.skype.com/v1/avatars/live:b58cc9dc339c490/public,,home,gb,,,,Ameen,,London International,,,,,,,,,live:b58cc9dc339c490,"AcceptInvite, AcceptConversation",2021-03-24 11:00:26Z
+Skype,live:dani_10310,Dani Zuhause,False,False,https://avatar.skype.com/v1/avatars/live:dani_10310/public,,,,,,,Dani,,Zuhause,,,,,,,,,live:dani_10310,"AcceptInvite, AcceptConversation",2021-03-24 09:20:52Z
+SkypeOneWay,jordancean,océane,False,False,https://avatar.skype.com/v1/avatars/jordancean/public,,,,,,,océane,,,,,,,,,,,jordancean,InitConversation,2021-03-23 22:10:00Z
+Skype,kjvaghasiya,ketan vaghasiya,False,False,https://avatar.skype.com/v1/avatars/kjvaghasiya/public,male,home,in,surat,gujrat,MEAN Stack Developer | NodeJS | AngularJS | Express.js  | MongoDB | WordPress | CodeIgniter | Php | UI Designer,ketan,,vaghasiya,919537758335,mobile,,,,,,,kjvaghasiya,"AcceptConversation, AcceptInvite",2021-03-23 09:39:11Z
+Skype,live:.cid.20f8aa3befc7e4d8,farzam afifi,False,False,,,,,,,,farzam,,afifi,,,,,,,,,live:.cid.20f8aa3befc7e4d8,InitConversation,2021-03-19 01:24:43Z
+Skype,live:.cid.d7e49782f91ad883,Sammy,False,False,,,,,,,,Sammy,,,,,,,,,,,live:.cid.d7e49782f91ad883,InitConversation,2021-03-17 22:21:12Z
+Skype,socialgrower,Suite.Social,False,False,https://avatar.skype.com/v1/avatars/socialgrower/public,male,home,gb,London,,"<ss type=""smile"">:)</ss>",Suite.Social,,,442031297048,office,,,https://suite.social,,,www.socialgrower.com,socialgrower,InitConversation,2021-03-16 15:15:52Z
+SkypeOneWay,live:quirin.kraus_2,quirin kraus,False,False,https://avatar.skype.com/v1/avatars/live:quirin.kraus_2/public,,,,,,,quirin,,kraus,,,,,,,,,live:quirin.kraus_2,InitConversation,2021-03-16 07:59:03Z
+Skype,live:.cid.853809a04679c1db,Hub SaaS,False,False,,,,,,,,Hub,,SaaS,,,,,,,,,live:.cid.853809a04679c1db,InitConversation,2021-03-16 06:36:07Z
+Skype,live:erlend.keilen,Erlend Keilen,False,False,,,,,,,,Erlend,,Keilen,,,,,,,,,live:erlend.keilen,"AcceptInvite, AcceptConversation",2021-03-12 17:45:13Z
+SkypeOneWay,webkuti,Webkuti,False,False,https://avatar.skype.com/v1/avatars/webkuti/public,male,home,in,,CA,,Webkuti,,,,,,,,,,,webkuti,InitConversation,2021-06-04 05:00:26Z
+Skype,marcomur2,Marco Mursteiner,False,False,https://avatar.skype.com/v1/avatars/marcomur2/public,,home,at,Klagenfurt,,,Marco,,Mursteiner,,,,,,,,,marcomur2,"AcceptConversation, AcceptInvite",2021-03-11 17:33:56Z
+Skype,live:joseangarita8,Jose Angarita Gonzales,False,False,https://avatar.skype.com/v1/avatars/live:joseangarita8/public,,,,,,,Jose,,Angarita Gonzales,,,,,,,,,live:joseangarita8,"AcceptConversation, AcceptInvite",2021-03-08 14:39:15Z
+Skype,live:leschinskysergey,Sergey Leschinsky,False,False,,,,,,,,Sergey,,Leschinsky,,,,,,,,,live:leschinskysergey,"AcceptInvite, AcceptConversation",2021-03-08 14:07:12Z
+Skype,gearmzizou,gil akrish,False,False,,,,,,,,gil akrish,,,,,,,,,,,gearmzizou,"AcceptInvite, AcceptConversation",2021-03-08 08:21:22Z
+Skype,live:miki90_15,miki90_15,False,False,,,,,,,,miki90_15,,,,,,,,,,,live:miki90_15,InitConversation,2021-03-05 19:18:55Z
+Skype,arun.uc,arun chandran,False,False,,male,home,in,,,,arun,,chandran,,,,,,,,,arun.uc,"AcceptConversation, AcceptInvite",2021-03-04 16:37:09Z
+Skype,live:.cid.ccddeafd3ce05f5f,Timothy Murphy,False,False,https://avatar.skype.com/v1/avatars/live:.cid.ccddeafd3ce05f5f/public,,,,,,,Timothy,,Murphy,,,,,,,,,live:.cid.ccddeafd3ce05f5f,"AddContact (T2), InitConversation",2021-03-03 22:13:27Z
+Skype,live:.cid.61c50e2888d462c9,Rocky Malyam,False,False,https://avatar.skype.com/v1/avatars/live:.cid.61c50e2888d462c9/public,,,,,,,Rocky,,Malyam,,,,,,,,,live:.cid.61c50e2888d462c9,InitConversation,2021-03-02 07:05:43Z
+Skype,live:kevinjeetsingh,Kev Singh,False,True,https://avatar.skype.com/v1/avatars/live:kevinjeetsingh/public,male,home,gb,Birmingham,West Midlands,,Kev,,Singh,447478543964,mobile,,,,,,,live:kevinjeetsingh,"AcceptConversation, AcceptInvite",2021-02-28 17:37:34Z
+Skype,live:.cid.ad1f76e02e40e76c,Quirin Kraus,False,False,https://avatar.skype.com/v1/avatars/live:.cid.ad1f76e02e40e76c/public,,,,,,,Quirin,,Kraus,,,,,,,,,live:.cid.ad1f76e02e40e76c,"AcceptConversation, AcceptInvite",2021-02-26 17:41:19Z
+Skype,live:dannymendelmn,Danny Mendel,False,False,https://avatar.skype.com/v1/avatars/live:dannymendelmn/public,male,home,il,,,,Danny,,Mendel,972544473992,mobile,,,,,,,live:dannymendelmn,"AcceptInvite, AcceptConversation",2021-02-26 00:14:41Z
+Skype,live:red.hat125,Red Hat,False,False,https://avatar.skype.com/v1/avatars/live:red.hat125/public,,,,,,,Red,,Hat,,,,,,,,,live:red.hat125,"AcceptConversation, AcceptInvite",2021-02-25 13:56:29Z
+Skype,live:.cid.7ecf0494741061b8,sam,False,False,,,,,,,,sam,,,,,,,,,,,live:.cid.7ecf0494741061b8,"AcceptInvite, AcceptConversation",2021-02-25 11:01:30Z
+Skype,live:.cid.20b1d74def9fc038,Saburo Ono,False,False,,,,,,,,Saburo,,Ono,,,,,,,,,live:.cid.20b1d74def9fc038,InitConversation,2021-02-24 11:24:27Z
+Skype,live:.cid.f3da6f1ad07dffe1,SKY TEZH,False,False,https://avatar.skype.com/v1/avatars/live:.cid.f3da6f1ad07dffe1/public,male,,,,,We are professional and we will always prove it,SKY,,TEZH,,,,,I'm full-stack developer that work with expert of team developer,,,,live:.cid.f3da6f1ad07dffe1,InitConversation,2021-02-24 10:54:45Z
+Skype,live:.cid.e111d10f1fbe69a2,Hari S,False,False,,,,,,,,Hari,,S,,,,,,,,,live:.cid.e111d10f1fbe69a2,"AcceptConversation, AcceptInvite",2021-02-24 06:41:46Z
+SkypeOneWay,live:danialiandaniel,Daniel Danialian,False,False,,male,home,us,Las Vegas,Nevada,,Daniel,,Danialian,,,,,,,,,live:danialiandaniel,InitConversation,2021-03-22 18:20:02Z
+SkypeOneWay,live:.cid.abd724866563f22,AH&AS,False,False,https://avatar.skype.com/v1/avatars/live:.cid.abd724866563f22/public,,,,,,,AH&AS,,,,,,,,,,,live:.cid.abd724866563f22,"AcceptInvite, InitConversation",2021-06-17 05:28:14Z
+Skype,live:.cid.9a0ab0321087c8f,Oh Kiss,False,False,,,,,,,,Oh,,Kiss,,,,,,,,,live:.cid.9a0ab0321087c8f,InitConversation,2021-02-23 14:37:15Z
