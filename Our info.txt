@@ -48,9 +48,16 @@ You first pet's name
 Kiddy
 
 --Suneel--
+Anydesk
 681741279
 qwerty@789
 Bizgaze@123
+Gmail
+psuneelnj@gmail.com
+Qwerty@789
+Upwork
+Qwerty@789
+first pet name-tiger
 
 Phone verify
 bobby.ledner0624@gmail.com
@@ -88,6 +95,10 @@ ink22537
 First pet's name= wang
 Phone
 +385 924350479
+Shopify
+bertatomislav@gmail.com
+ink22537
+CLI token=atkn_c6985645fbb957c40b23aa0fbbbde37b5e3f56e71fa545ec8c70631784382888
 
 VPS
 --US VPS--
